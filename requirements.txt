@@ -8,6 +8,7 @@ bitarray==3.4.2
 certifi==2025.4.26
 charset-normalizer==3.4.2
 ckzg==2.1.1
+clickhouse-driver==0.2.9
 cytoolz==1.0.1
 eth-account==0.13.7
 eth-hash==0.7.1
@@ -28,6 +29,7 @@ pycryptodome==3.23.0
 pydantic==2.11.5
 pydantic_core==2.33.2
 python-dotenv==1.1.0
+pytz==2025.2
 pyunormalize==16.0.0
 regex==2024.11.6
 requests==2.32.3
@@ -36,6 +38,7 @@ toolz==1.0.0
 types-requests==2.32.0.20250515
 typing-inspection==0.4.1
 typing_extensions==4.13.2
+tzlocal==5.3.1
 urllib3==2.4.0
 web3==7.12.0
 websockets==15.0.1
